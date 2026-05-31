@@ -1,7 +1,7 @@
 {
-  "name": "航修 SOP / 民航法規刷題工具 Combined v2.1",
-  "short_name": "航修SOP v2.1",
-  "start_url": "./index.html?v=combined-v2",
+  "name": "航修 SOP / 民航法規刷題工具 Combined v2.2.2",
+  "short_name": "航修SOP v2.2.2",
+  "start_url": "./index.html?v=combined-v2.2",
   "display": "standalone",
   "background_color": "#0f1714",
   "theme_color": "#10231c",
